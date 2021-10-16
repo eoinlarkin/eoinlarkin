@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Code Institute milestone project
+- 🌱 I’m currently learning all things Linux and full stack software development
+- 👯 I’m looking to collaborate on open source projects particularly relating to better access to public infrastructure and cycling provision  
+- 💬 Other than software development, ask me about statistics and machine learning 
+
+
 <!--
 **eoinlarkin/eoinlarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
