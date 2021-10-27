@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Code Institute milestone project
+Welcome to my GitHub page.....! I'm a statistician / actuary working in Insurance with a keen interest in coding and technology. My repositories are focused on data science and personal coding projects. 
+
+I have a Msc. in Data Science and I'm currently completing a Diploma in Full Stack Software Development
+
 - 🌱 I’m currently learning all things Linux and full stack software development
-- 👯 I’m looking to collaborate on open source projects particularly relating to better access to public infrastructure and cycling provision  
-- 💬 Other than software development, ask me about statistics and machine learning 
+- 🔭 I’m currently working on my latest diploma project
+- 👯 I’m looking to collaborate on open source projects particularly relating finance or public infrastructure (I'm a keen cyclist....!)
+
+💬 Contact me to talk about:
+-  Statistics and machine learning 
+-  Home networking 
+-  Python, R, JavaScript and Linux
+-  Career opportunities in software development / site reliability engineering
 
 
 <!--
