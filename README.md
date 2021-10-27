@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub page.....! I'm a statistician / actuary working in Insurance with a keen interest in coding and technology. My repositories are focused on data science and personal coding projects. 
+Welcome to my GitHub profile page.....! 
+
+I'm a statistician / actuary working in Insurance with a keen interest in coding and technology. My repositories are focused on data science and personal coding projects. 
 
 I have a Msc. in Data Science and I'm currently completing a Diploma in Full Stack Software Development
 
