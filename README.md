@@ -8,7 +8,7 @@ I have a Msc. in Data Science and I'm currently completing a Diploma in Full Sta
 
 - 🌱 I’m currently learning all things Linux and full stack software development
 - 🔭 I’m currently working on my latest diploma project
-- 👯 I’m looking to collaborate on open source projects particularly relating finance or public infrastructure (I'm a keen cyclist....!)
+- 👯 I’m looking to collaborate on open source projects particularly relating to finance / insurance or public infrastructure (I'm a keen cyclist....!)
 
 💬 Contact me to talk about:
 -  Statistics and machine learning 
