@@ -12,7 +12,7 @@ My repositories are mainly focused on data science and personal coding projects.
 
 💬 Contact me to talk about:
 -  Statistics and machine learning 
--  Home networking 
+-  Home automation and networking
 -  Python, R, JavaScript and Linux
 -  Career opportunities in software development / site reliability engineering
 
