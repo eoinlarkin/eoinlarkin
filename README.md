@@ -14,8 +14,6 @@ My repositories are mainly focused on data science and personal coding projects.
 -  Statistics and machine learning 
 -  Home automation and networking
 -  Python, R, JavaScript and Linux
--  Career opportunities in software development / site reliability engineering
-
 
 <!--
 **eoinlarkin/eoinlarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
