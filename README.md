@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile page.....! 
+I'm a statistician / actuary working in Insurance. I have a Msc. in Data Science and I'm currently completing a Diploma in Full Stack Software Development.
 
-I'm a statistician / actuary working in Insurance with a keen interest in coding and technology. I have a Msc. in Data Science and I'm currently completing a Diploma in Full Stack Software Development.
-
-My repositories are mainly focused on data science and personal coding projects. 
-
-- 🌱 I’m currently learning all things Linux and full stack software development
-- 🔭 I’m currently working on my latest diploma project
-- 👯 I’m looking to collaborate on open source projects particularly relating to finance / insurance or public infrastructure (I'm a keen cyclist....!)
+My repositories are mainly focused on personal coding projects and data science. 
 
 💬 Contact me to talk about:
 -  Statistics and machine learning 
