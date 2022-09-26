@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a statistician / actuary working in Insurance. I have a Msc. in Data Science and I'm currently completing a Diploma in Full Stack Software Development.
+Welcome to my GitHub ! I'm a statistician / actuary working in Insurance. I have a Msc. in Data Science and I'm currently completing a Diploma in Full Stack Software Development.
 
 My repositories are mainly focused on personal coding projects and data science. 
 
