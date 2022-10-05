@@ -5,9 +5,9 @@ Welcome to my GitHub ! I'm a statistician / actuary working in the insurance ind
 My repositories are mainly focused on personal coding projects and data science. 
 
 💬 Contact me to talk about:
--  Statistics and machine learning 
 -  Home automation and networking
 -  Python, R, JavaScript and Linux
+-  Statistics and machine learning 
 
 <!--
 **eoinlarkin/eoinlarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
