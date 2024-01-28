@@ -1,6 +1,8 @@
-I am a systems engineer currently working for a HFT firm. My background is in quantitiative risk / actuarial science; I previously worked for Insurance companies in both Ireland and Italy.
+I am a systems engineer currently working for a HFT firm. 
 
-💬 Contact me to talk about:
+My background is in statistics / quantitiative risk; prior to focusing on systems I worked as an actuary for Insurance companies in Ireland and Italy.
+
+💬 Interests:
 -  Monitoring and reliability engineering
 -  Home automation and networking
 -  Statistics and machine learning 
