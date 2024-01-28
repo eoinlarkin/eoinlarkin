@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub ! I'm a statistician / actuary working in the insurance industry. I have a Msc. in Data Science and a Higher Diploma in Full Stack Software Development.
-
-My repositories are mainly focused on personal coding projects and data science. 
+I'm a systems engineer currently working for HFT firm. My background is in quantitiative risk / actuarial science; I previously worked for Insurance companies in both Ireland and Italy.
 
 💬 Contact me to talk about:
+-  Monitoring and reliability engineering
 -  Home automation and networking
--  Python, R, JavaScript and Linux
 -  Statistics and machine learning 
 
 <!--
