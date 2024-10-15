@@ -1,6 +1,6 @@
 I am a systems engineer currently working for a HFT firm. 
 
-My background is in statistics; prior to focusing on systems I worked as an actuary for Insurance companies in Ireland and Italy.
+Prior to focusing on systems I worked as an actuary for Insurance companies in Ireland and Italy.
 
 💬 Interests:
 -  Monitoring and reliability engineering
