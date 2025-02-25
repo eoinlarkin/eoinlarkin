@@ -1,6 +1,4 @@
-I am a Production Engineer working for for a trading firm in Dublin, Ireland. 
-
-Prior to focusing on systems / big data I worked as an actuary building models.
+Production Engineer currently working for a trading firm in Dublin, Ireland. 
 
 💬 Interests:
 -  Statistics and machine learning
