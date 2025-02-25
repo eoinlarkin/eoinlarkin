@@ -1,11 +1,10 @@
-I am a systems engineer currently working for a HFT firm. 
-
-Prior to focusing on systems I worked as an actuary for Insurance companies in Ireland and Italy.
+I am a Production Engineer working for for a trading firm in Dublin, Ireland. Prior to focusing on systems / big data I worked as an actuary for a number of years.
 
 💬 Interests:
+-  Statistics and machine learning
+-  Science, space and travel
 -  Monitoring and reliability engineering
 -  Home automation and networking
--  Statistics and machine learning 
 
 <!--
 **eoinlarkin/eoinlarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
